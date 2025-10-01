@@ -1,0 +1,6 @@
+.vscode/
+CPP/.vscode/
+.pycache/
+c_cpp_properties.json
+settings.jsontasks.json
+CPP
