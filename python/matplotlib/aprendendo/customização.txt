@@ -1,0 +1,41 @@
+ex:
+import matplotlib.pyplot as plot
+...
+plot.plot(..,c="green",marker="",alpha)
+...
+=========================================================================
+
+c é parte de customização dentro de pyplot ou sendo o nome ou #rgb
+c se não funcionar torque por color
+
+aling(alinhamento)
+
+alpha é a transparencia
+
+lw(line width)
+linestyle(jeito da linha)
+
+width
+height
+
+edgecolor(contorno em graficos de barras)
+
+marken substitui pontos por o que tiver em parenteses(é limitado)
+em marker pode ser:
+,	pixel (bem pequeno)
+o	círculo
+v	triângulo para baixo
+^	triângulo para cima
+<	triângulo para a esquerda
+>	triângulo para a direita
+s	quadrado
+p	pentágono
+*	estrela
+h	hexágono 1
+H	hexágono 2
++	sinal de mais
+x	x (diagonal)
+D	losango (grande)
+d	losango (pequeno)
+`	`
+_	linha horizontal
