@@ -90,7 +90,7 @@ body h1,h2,li{
     width: 100%;
 }
 .chao{
-    background-color: rgb(11, 51, 23);
+    background-image: linear-gradient(to right,rgb(46, 92, 60),rgb(11, 51, 23));
     position: relative;
     bottom:110dvh;
     width: 100%;
