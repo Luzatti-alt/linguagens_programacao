@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to bottom right,rgb(0, 78, 224),black);
+    background-image: linear-gradient(to bottom right,rgb(2, 69, 192),black);
     /* gradiente*/
     background-repeat: no-repeat;/* sem repetição */
     background-attachment: fixed;   /* <- fixa o gradiente na tela */
@@ -56,7 +56,7 @@ body h1,h2,li{
 }
 .menu{
     display: flex;
-    gap:55vw ;
+    justify-content: space-between;
 }
 .loja{
     background-color: #051e4e;
