@@ -47,6 +47,9 @@ body h1,h2,li{
     justify-content: center;
     align-items: center;
 }
+.fundo{
+    height: 20%;
+}
 .loja_pnts{
     height: 50vh;
 }
@@ -95,5 +98,5 @@ body h1,h2,li{
     z-index: 0;
 }
 .roda_pe{
-    height: 60vh;
+    height: 10vh;
 }
