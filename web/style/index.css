@@ -47,9 +47,6 @@ body h1,h2,li{
     justify-content: center;
     align-items: center;
 }
-.fundo{
-    position: relative; /* Contexto para o z-index */
-}
 .loja_pnts{
     height: 50vh;
 }
