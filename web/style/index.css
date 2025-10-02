@@ -80,16 +80,16 @@ body h1,h2,li{
     height: 30vh;
 }
 .fonte{
-    height: 100vh;
+    height: 10vh;
     width: 100%;
     position: relative;
     left: 12dvw;
-    bottom:50dvh;
+    bottom:20dvh;
     opacity: 50%;
     z-index: 3;
 }
 .fonte img{
-    height: 100%;
+    height: 800%;
     width: 100%;
 }
 .chao{
