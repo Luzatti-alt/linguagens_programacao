@@ -61,7 +61,7 @@ body h1,li{
 .loja{
     background-color: #051e4e;
     width: 20vw;
-    height: 20vh;
+    height: 40vh;
 }
 .inventario{
     background-color: #051e4e;
@@ -71,7 +71,7 @@ body h1,li{
 .fonte img{
     height: 130vh;
     width: 90%;
-    top:-24vh;
+    top:-44vh;
     position: relative;
     opacity: 50%;
 }
