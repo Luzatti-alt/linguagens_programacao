@@ -1,3 +1,61 @@
 body{
-    background-color: black;
+    background-image: linear-gradient(to bottom right,rgb(0, 78, 224),black);
+    /* gradiente*/
+    background-repeat: no-repeat;/* sem repetição */
+    background-attachment: fixed;   /* <- fixa o gradiente na tela */
+    background-size: cover; /* toda a tela */
+}
+body h1,li{
+    color: white;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}/*isso evita ter que manualmente ficar colocando no canto*/
+.topo{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.topo h1{
+    font-size:250%;
+    color: white;
+}
+.intro{
+    display: flex;
+}
+.tasks{
+    display: flex;
+}
+.tarefas{
+    display: block;
+    width: 30%;  
+    margin:0 auto;
+    padding-left: 25px;
+    background-color: blueviolet;
+    justify-content: center;
+    align-items: center;
+}
+.concluidas{
+    display: block;
+    width: 30%;  
+    margin:0 auto;
+    padding-left: 25px;
+    background-color: blueviolet;
+    justify-content: center;
+    align-items: center;
+}
+.loja_pnts{
+    background-image: linear-gradient(to bottom,rgb(0, 0, 0,0.1), rgb(253, 243, 231,0.1));
+    /*esse 0.1 é alpha(opacidade)*/
+    height: 70vh;
+}
+.fonte{
+    height: 30vh;
+    width: 100%;  
+}
+.roda_pe{
+    background-image: linear-gradient(to bottom,rgb(253, 243, 231,0.1),rgb(0, 0, 0,0.1));
+    height: 5vh;
 }
