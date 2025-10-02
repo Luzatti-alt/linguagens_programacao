@@ -78,7 +78,7 @@ body h1,h2,li{
 }
 .fonte{
     height: 100vh;
-    width: 90%;
+    width: 100%;
     position: relative;
     opacity: 50%;
 }
