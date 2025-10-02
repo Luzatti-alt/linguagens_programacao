@@ -54,6 +54,16 @@ body h1,li{
     /*esse 0.1 é alpha(opacidade)*/
     height: 70vh;
 }
+.menu{
+    display: flex;
+    gap:20vw ;
+}
+.loja{
+    
+}
+.inventario{
+
+}
 .fonte img{
     height: 125vh;
     width: 100%;
