@@ -84,12 +84,12 @@ body h1,h2,li{
     width: 100%;
     position: relative;
     left: 12dvw;
-    bottom:40dvh;
+    bottom:80dvh;
     opacity: 50%;
     z-index: 3;
 }
 .fonte img{
-    height: 800%;
+    height: 1500%;
     width: 100%;
 }
 .chao{
