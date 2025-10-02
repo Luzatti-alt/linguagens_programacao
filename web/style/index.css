@@ -59,10 +59,14 @@ body h1,li{
     gap:20vw ;
 }
 .loja{
-    
+    background-color: #052766;
+    width: 20vw;
+    height: 20vh;
 }
 .inventario{
-
+    background-color: #052766;
+    width: 20vw;
+    height: 20vh;
 }
 .fonte img{
     height: 125vh;
