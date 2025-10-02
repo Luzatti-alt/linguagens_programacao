@@ -51,8 +51,8 @@ body h1,li{
     /*esse 0.1 é alpha(opacidade)*/
     height: 70vh;
 }
-.fonte{
-    height: 30vh;
+.fonte img{
+    height: 125vh;
     width: 100%;  
 }
 .roda_pe{
