@@ -56,17 +56,17 @@ body h1,li{
 }
 .menu{
     display: flex;
-    gap:20vw ;
+    gap:55vw ;
 }
 .loja{
-    background-color: #052766;
+    background-color: #051e4e;
     width: 20vw;
     height: 20vh;
 }
 .inventario{
-    background-color: #052766;
+    background-color: #051e4e;
     width: 20vw;
-    height: 20vh;
+    height: 5vh;
 }
 .fonte img{
     height: 125vh;
