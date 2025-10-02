@@ -46,6 +46,9 @@ body h1,li{
     justify-content: center;
     align-items: center;
 }
+.fundo{
+    position: relative; /* Contexto para o z-index */
+}
 .loja_pnts{
     background-image: linear-gradient(to bottom,rgb(0, 0, 0,0.1), rgb(253, 243, 231,0.1));
     /*esse 0.1 é alpha(opacidade)*/
@@ -53,7 +56,9 @@ body h1,li{
 }
 .fonte img{
     height: 125vh;
-    width: 100%;  
+    width: 100%;
+    opacity: 50%;
+    z-index: 1S;
 }
 .roda_pe{
     background-image: linear-gradient(to bottom,rgb(253, 243, 231,0.1),rgb(0, 0, 0,0.1));
