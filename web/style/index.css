@@ -69,10 +69,11 @@ body h1,li{
     height: 5vh;
 }
 .fonte img{
-    height: 125vh;
-    width: 100%;
+    height: 130vh;
+    width: 90%;
+    top:-24vh;
+    position: relative;
     opacity: 50%;
-    z-index: 1S;
 }
 .roda_pe{
     background-image: linear-gradient(to bottom,rgb(253, 243, 231,0.1),rgb(0, 0, 0,0.1));
