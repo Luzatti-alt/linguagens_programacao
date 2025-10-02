@@ -5,7 +5,7 @@ body{
     background-attachment: fixed;   /* <- fixa o gradiente na tela */
     background-size: cover; /* toda a tela */
 }
-body h1,li{
+body h1,h2,li{
     color: white;
 }
 *{
@@ -71,6 +71,11 @@ body h1,li{
     background-color: #000000;
     width: 20vw;
     height: 5vh;
+}
+.inventario h2{
+    background-color: #000000;
+    width: 20vw;
+    height: 30vh;
 }
 .fonte img{
     height: 130vh;
