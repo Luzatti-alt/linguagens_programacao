@@ -76,12 +76,14 @@ body h1,h2,li{
     width: 20vw;
     height: 30vh;
 }
-.fonte img{
-    height: 130vh;
+.fonte{
+    height: 100vh;
     width: 90%;
-    top:-70vh;
     position: relative;
     opacity: 50%;
+}
+.fonte img{
+    width: 100%;
 }
 .roda_pe{
     height: 60vh;
